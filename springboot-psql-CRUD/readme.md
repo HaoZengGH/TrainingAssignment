@@ -2,6 +2,7 @@
 Request url: localhost:8080/api/v1/students/
 
 Response Body:
+```
 {
     "studentList": [
         {
@@ -22,16 +23,17 @@ Response Body:
         }
     ]
 }
-
+```
 
 ###### GET
 Request url: localhost:8080/api/v1/students/{id}
 
 Response Body:
+```
 {
   "success"
 }
-
+```
 
 
 ###### POST
@@ -39,13 +41,16 @@ Response Body:
 Request url: localhost:8080/api/v1/students/{name}
 
 Request Body:
+```
 {
   "name":"K
 }
+```
 
 Response Body:
+```
 {
   "success"
 }
-
+```
 
