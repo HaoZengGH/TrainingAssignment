@@ -1,4 +1,4 @@
-###### GET
+## GET
 Request url: localhost:8080/api/v1/students/
 
 Response Body:
@@ -25,7 +25,7 @@ Response Body:
 }
 ```
 
-###### GET
+## GET
 Request url: localhost:8080/api/v1/students/{id}
 
 Response Body:
@@ -36,7 +36,7 @@ Response Body:
 ```
 
 
-###### POST
+## POST
 
 Request url: localhost:8080/api/v1/students/{name}
 
