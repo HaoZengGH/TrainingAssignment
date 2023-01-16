@@ -1,0 +1,10 @@
+com\restAPI\springbootpsqlCRUD\repository\StudentRepository.class
+com\restAPI\springbootpsqlCRUD\exception\GlobalException.class
+com\restAPI\springbootpsqlCRUD\controller\StudentController.class
+com\restAPI\springbootpsqlCRUD\pojo\dto\StudentResponseDTO$StudentDTO$StudentDTOBuilder.class
+com\restAPI\springbootpsqlCRUD\service\StudentService.class
+com\restAPI\springbootpsqlCRUD\pojo\entity\Student.class
+com\restAPI\springbootpsqlCRUD\pojo\dto\StudentResponseDTO.class
+com\restAPI\springbootpsqlCRUD\pojo\dto\StudentResponseDTO$StudentDTO.class
+com\restAPI\springbootpsqlCRUD\service\impl\StudentServiceImpl.class
+com\restAPI\springbootpsqlCRUD\SpringbootPsqlCrudApplication.class
